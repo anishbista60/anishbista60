@@ -14,7 +14,7 @@
 - **Container Orchestration:** Kubernetes
 - **Cloud Platforms:** AWS, Azure
 - **IAC**: Terraform 
-- **CI/CD** : Jenkins, Github Actions, ArgoCD:
+- **CI/CD** : Jenkins, Github Actions, ArgoCD
 - **Monitoring & Observability:** Prometheus , Grafana
 - **Tools & Version Control** : Helm, Git, Istio, Linux 
 
@@ -26,6 +26,6 @@
 
 ## Socials
 
-- [**GitHub**](https://github.com/anishbista60)  [**LinkedIn**](https://www.linkedin.com/in/anishbista)  [**Email**](mailto:anishbista053@gmail.com)  [**Twitter**](https://x.com/anishbista053)  
+[**LinkedIn**](https://www.linkedin.com/in/anishbista)      [**Email**](mailto:anishbista053@gmail.com)      [**Twitter**](https://x.com/anishbista053)  
 
 
