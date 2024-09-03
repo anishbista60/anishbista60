@@ -5,7 +5,7 @@
 - Focused on **streamlining software development processes**.
 - Hands-on experience with [**Kubernetes**](https://kubernetes.io/).
 - Good knowledge of writing **Kubernetes Operator**.
-- Contributor to projects like [**Kubevirt**](https://github.com/kubevirt)   and [**Kainister**](https://github.com/kainsterio/kainster) .
+- Contributor to projects like [**Kubevirt**](https://github.com/kubevirt)   and [**Kainister**](https://github.com/kanisterio/kanister) .
 - Active **technical writer** on [**Hashnode**](https://anish60.hashnode.dev)  , sharing insights on DevOps, CloudNative and OpenSource.
   
 ## Skills
