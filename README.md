@@ -21,7 +21,7 @@
 ## Community Involvement
 
 - Co-organizer of [**CNCF Kathmandu**](https://community.cncf.io/kathmandu/), growing the local cloud-native community.
-- Orgainzed the workshop on [**Container and Kubernetes**](https://community.cncf.io/events/details/cncf-kathmandu-presents-deep-dive-into-containers/cohost-kathmandu).
+- Organized the workshop on [**Container and Kubernetes**](https://community.cncf.io/events/details/cncf-kathmandu-presents-deep-dive-into-containers/cohost-kathmandu).
 - Serve as **technical writer** on [**Medium**](https://medium.com/@anishbista053). 
 
 ## Socials
