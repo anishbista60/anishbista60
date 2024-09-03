@@ -24,7 +24,7 @@
 - Orgainzed the workshop on [**Container and Kubernetes**](https://community.cncf.io/events/details/cncf-kathmandu-presents-deep-dive-into-containers/cohost-kathmandu).
 - Serve as **technical writer** on [**Medium**](https://medium.com/@anishbista053). 
 
-# Socials
+## Socials
 
 - [**GitHub**](https://github.com/anishbista60)  [**LinkedIn**](https://www.linkedin.com/in/anishbista)  [**Email**](mailto:anishbista053@gmail.com)  [**Twitter**](https://x.com/anishbista053)  
 
