@@ -6,7 +6,7 @@
 - Hands-on experience with [**Kubernetes**](https://kubernetes.io/).
 - Good knowledge of writing **Kubernetes Operator**.
 - Contributor to projects like [**Kubevirt**](https://github.com/kubevirt)   and [**Kainister**](https://github.com/kanisterio/kanister) .
-- Active **technical writer** on [**Hashnode**](https://anish60.hashnode.dev)  , sharing insights on DevOps, CloudNative and OpenSource.
+- Active **Technical writer** on [**Hashnode**](https://anish60.hashnode.dev)  , sharing insights on DevOps, CloudNative and OpenSource.
   
 ## Skills
 
@@ -22,7 +22,7 @@
 
 - Co-organizer of [**CNCF Kathmandu**](https://community.cncf.io/kathmandu/), growing the local cloud-native community.
 - Organized the workshop on [**Container and Kubernetes**](https://community.cncf.io/events/details/cncf-kathmandu-presents-deep-dive-into-containers/cohost-kathmandu).
-- Serve as **technical writer** on [**Medium**](https://medium.com/@anishbista053). 
+- Serve as **Technical writer** for **CNCF kathmandu** on [**Medium**](https://medium.com/@anishbista053). 
 
 ## Socials
 
