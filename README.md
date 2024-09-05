@@ -11,7 +11,7 @@
 ## Skills
 
 - **Programming Languages:** Golang, Java, Python, Bash
-- **Container Orchestration:** Kubernetes
+- **Orchestration:** Kubernetes, Kubevirt
 - **Cloud Platforms:** AWS, Azure
 - **IAC**: Terraform 
 - **CI/CD** : Jenkins, Github Actions, ArgoCD
