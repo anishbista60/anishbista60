@@ -3,7 +3,7 @@
 
 - Passionate about **open-source software development** and **cloud-native technologies**.
 - Focused on **streamlining software development processes**.
-- Hands-on experience with [**Kubernetes**](https://kubernetes.io/) and other **Devops tools**
+- Good knowledge of [**Kubernetes**](https://kubernetes.io/) and other **Devops tools**
 - Good knowledge of writing **Kubernetes Operator**.
 - Contributor to projects like [**Kubevirt**](https://github.com/kubevirt)   and [**Kainister**](https://github.com/kanisterio/kanister) .
 - Active **Technical writer** on [**Hashnode**](https://anish60.hashnode.dev)  , sharing insights on DevOps, CloudNative and OpenSource.
