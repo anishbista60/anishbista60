@@ -1,4 +1,4 @@
-e
+
 # Hi, I'm Anish Bista! 👋
 
 - Passionate about **open-source software development** and **cloud-native technologies**.
