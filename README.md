@@ -6,7 +6,7 @@
 - Hands on knowledge with [**Kubernetes**](https://kubernetes.io/) and other **Devops tools**
 - Good knowledge of writing **Kubernetes Operator**.
 - Contributor to projects like [**Kubevirt**](https://github.com/kubevirt)   and [**Kanister**](https://github.com/kanisterio/kanister) .
-- Active **Technical writer** on [**Hashnode**](https://anish60.hashnode.dev)  , sharing insights on DevOps, CloudNative and OpenSource.
+- Checkout my blog at [**Hashnode**](https://anish60.hashnode.dev).
   
 ## Skills
 
