@@ -4,6 +4,7 @@
 - Passionate about **open-source software development** and **cloud-native technologies**.
 - Focused on **streamlining software development processes**.
 - Hands on knowledge with [**Kubernetes**](https://kubernetes.io/) and other **Devops tools**
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/31e3d2cf-5e1c-468d-925f-bfe615aff5a0/linked_in?t=sn0xe5)
 - Good knowledge of writing **Kubernetes Operator**.
 - Contributor to projects like [**Kubevirt**](https://github.com/kubevirt)   and [**Kanister**](https://github.com/kanisterio/kanister) .
 - Checkout my blog at [**Hashnode**](https://anish60.hashnode.dev).
