@@ -24,7 +24,7 @@
 - Co-organizer of [**CNCF Kathmandu**](https://community.cncf.io/kathmandu/), growing the local cloud-native community in Nepal.
 - Member of [DevopsCloudJunction](https://devopscloudjunction.com/)
 - Given talk on [**Container and Kubernetes**](https://community.cncf.io/events/details/cncf-kathmandu-presents-deep-dive-into-containers/cohost-kathmandu).
-- Serve as **Technical writer** for **CNCF kathmandu** on [**Medium**](https://medium.com/@anishbista053). 
+- Serve as **Technical writer** for **CNCF kathmandu** on [**Medium**](https://medium.com/@cncfkathmandu). 
 
 
 
