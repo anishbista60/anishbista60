@@ -9,7 +9,7 @@
   
 ## Skills
 
-- **Kubernetes**, **Cloud**, **Golang** and **Operator**
+- **Devops**, **Kubernetes**, **Cloud**, **Golang** and **Operator**
 
 ## Community Involvement
 
