@@ -15,3 +15,4 @@
 
 - Co-organizer of [**CNCF Kathmandu**](https://community.cncf.io/kathmandu/)
 - Given talk on [**Container and Kubernetes**](https://community.cncf.io/events/details/cncf-kathmandu-presents-deep-dive-into-containers/cohost-kathmandu)
+- Member of [**DevopsCloudJunction**](https://devopscloudjunction.com/)
