@@ -1,6 +1,7 @@
 
 # Hi, I'm Anish Bista! 👋
 - Open Source is in my blood.
+- Future Science and Technology Minister of Nepal
 - Youngest [ CNCF kubestronaut(CKA, CKAD, CKS, KCNA, KCSA)](https://www.credly.com/badges/37852104-3956-4392-8809-0bf837d9d7c0/public_url) from Nepal.
 - LFX mentee for CNCF incubating project [KubeVela](https://github.com/kubevela/kubevela)
 - Maintainer of [KubeVirtBMC project](https://github.com/kubevirtbmc/kubevirtbmc).
