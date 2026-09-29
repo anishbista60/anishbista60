@@ -1,6 +1,6 @@
 
 # Hi, I'm Anish Bista! 👋
-- Open Source is in my blood.
+- Open Source is in my blood and Kubernetes is my friend that I am emotionally connected with. 
 - Future Science and Technology Minister of Nepal
 - Maintainer of [KubeVirtBMC project](https://github.com/kubevirtbmc/kubevirtbmc).
 - First and Youngest [CNCF Golden kubestronaut](https://www.credly.com/badges/3bc55e9a-c9b4-4463-ab1c-e39d8fdac647) from Nepal.
